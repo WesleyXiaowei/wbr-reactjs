@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wbr-reactjs/static/css/main.12d4abce.css",
+    "main.js": "/wbr-reactjs/static/js/main.c023a2a5.js",
+    "static/media/wbr-hero2.jpg": "/wbr-reactjs/static/media/wbr-hero2.db87ff62cf787ba2f934.jpg",
+    "static/media/wbr-logo.jpg": "/wbr-reactjs/static/media/wbr-logo.0ad0db352045cc6f482a.jpg",
+    "index.html": "/wbr-reactjs/index.html",
+    "main.12d4abce.css.map": "/wbr-reactjs/static/css/main.12d4abce.css.map",
+    "main.c023a2a5.js.map": "/wbr-reactjs/static/js/main.c023a2a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12d4abce.css",
+    "static/js/main.c023a2a5.js"
+  ]
+}
