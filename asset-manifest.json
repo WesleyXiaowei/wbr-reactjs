@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/wbr-reactjs/static/css/main.396fddbf.css",
-    "main.js": "/wbr-reactjs/static/js/main.c023a2a5.js",
+    "main.css": "/wbr-reactjs/static/css/main.1bb8e9da.css",
+    "main.js": "/wbr-reactjs/static/js/main.c137b7af.js",
     "static/media/wbr-hero.jpg": "/wbr-reactjs/static/media/wbr-hero.bd20710dad0fd94e0d8b.jpg",
+    "static/media/wesley-img.jpg": "/wbr-reactjs/static/media/wesley-img.65bc5a75cfd76b02bfdb.jpg",
     "static/media/wbr-logo.jpg": "/wbr-reactjs/static/media/wbr-logo.0ad0db352045cc6f482a.jpg",
     "index.html": "/wbr-reactjs/index.html",
-    "main.396fddbf.css.map": "/wbr-reactjs/static/css/main.396fddbf.css.map",
-    "main.c023a2a5.js.map": "/wbr-reactjs/static/js/main.c023a2a5.js.map"
+    "main.1bb8e9da.css.map": "/wbr-reactjs/static/css/main.1bb8e9da.css.map",
+    "main.c137b7af.js.map": "/wbr-reactjs/static/js/main.c137b7af.js.map"
   },
   "entrypoints": [
-    "static/css/main.396fddbf.css",
-    "static/js/main.c023a2a5.js"
+    "static/css/main.1bb8e9da.css",
+    "static/js/main.c137b7af.js"
   ]
 }
