@@ -1,0 +1,43 @@
+#container { 
+    margin: 30px auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffbb33;
+    padding: 30px;
+    border-radius: 15px;
+    margin: 30px auto;
+}
+
+#container h1 {
+    padding: 20px 0;
+}
+
+#container h4 {
+    padding: 20px 0;
+}
+
+#container img {
+    width: 250px;
+    border-radius: 50%;
+}
+
+#container p {
+    padding: 20px 0;
+}
+
+#container ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+
+#container li {
+    margin-right: 15px;
+}
+
+#container svg {
+    font-size: 1.5rem; 
+    cursor: pointer;
+}

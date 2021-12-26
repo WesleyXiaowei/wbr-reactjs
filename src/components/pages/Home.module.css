@@ -1,11 +1,13 @@
 .container {
+    margin: 0 auto;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-image: url(../../img/index/wbr-hero2.jpg);
+    background-image: url(../../img/index/wbr-hero.jpg);
     background-size: cover;
     min-height: 100vh;
+    padding: 3em;
 }
 
 .container h1 {
@@ -18,5 +20,4 @@
     color: #fff;
     font-size: 1.5rem;
     margin-bottom: 0.938rem;
-    padding: 0 8rem;
 }
