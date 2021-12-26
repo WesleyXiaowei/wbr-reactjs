@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/wbr-reactjs/static/css/main.1bb8e9da.css",
-    "main.js": "/wbr-reactjs/static/js/main.c137b7af.js",
+    "main.js": "/wbr-reactjs/static/js/main.c89b8ca4.js",
     "static/media/wbr-hero.jpg": "/wbr-reactjs/static/media/wbr-hero.bd20710dad0fd94e0d8b.jpg",
     "static/media/wesley-img.jpg": "/wbr-reactjs/static/media/wesley-img.65bc5a75cfd76b02bfdb.jpg",
     "static/media/wbr-logo.jpg": "/wbr-reactjs/static/media/wbr-logo.0ad0db352045cc6f482a.jpg",
     "index.html": "/wbr-reactjs/index.html",
     "main.1bb8e9da.css.map": "/wbr-reactjs/static/css/main.1bb8e9da.css.map",
-    "main.c137b7af.js.map": "/wbr-reactjs/static/js/main.c137b7af.js.map"
+    "main.c89b8ca4.js.map": "/wbr-reactjs/static/js/main.c89b8ca4.js.map"
   },
   "entrypoints": [
     "static/css/main.1bb8e9da.css",
-    "static/js/main.c137b7af.js"
+    "static/js/main.c89b8ca4.js"
   ]
 }
