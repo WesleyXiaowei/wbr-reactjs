@@ -5,7 +5,7 @@ function Contact() {
     return (
         <div className={styles.contact_container}>
             <h1>Contato</h1>
-            <p>Preencha os dados abaixo e retornaremos brevemente!</p>
+            <p>Preencha os dados abaixo e retornaremos brevemente</p>
             <Form btnText="Criar Projeto"/>
         </div>
     )
