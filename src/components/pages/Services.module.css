@@ -1,0 +1,50 @@
+.services {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+    align-items: center;
+}
+
+.services h2 {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.services p {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.services hr {
+    width: 200px;
+    height: 2px;
+    background-color: black;
+    border: none;
+    margin-bottom: 70px;
+}
+
+.services .grid {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    width: 100%;
+    justify-content: center;
+}
+
+.services li {
+    text-align: center;
+    padding: 0 15px;
+}
+
+.svg {
+    margin-bottom: 30px;
+}
+
+.services h4 {
+    margin-bottom: 30px;
+}
+
+.services .grid li p {
+    margin-bottom: 30px;
+}
