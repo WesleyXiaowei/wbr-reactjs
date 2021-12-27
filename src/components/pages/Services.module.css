@@ -16,20 +16,30 @@
     margin-bottom: 30px;
 }
 
+.services img {
+    margin-bottom: 30px;
+    border-radius: 15%;
+}
+
 .services hr {
     width: 200px;
     height: 2px;
-    background-color: black;
+    background-color: #FF6F73;
     border: none;
     margin-bottom: 70px;
 }
 
-.services .grid {
+.grid {
     display: flex;
     flex-direction: row;
     list-style: none;
     width: 100%;
     justify-content: center;
+}
+
+.link {
+    text-decoration: none;
+    color: #000;
 }
 
 .services li {

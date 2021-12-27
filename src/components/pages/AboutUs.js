@@ -8,7 +8,7 @@ function AboutUs() {
             <h1>Sobre nós</h1>
             <h4>Wesley B. Rocha</h4>
             <img src={wesley} alt='wesley-img'></img>
-            <p>Software Engineer e Línguista. CEO e criador da WBR (Web Brazilian Resouce)</p>
+            <p>Software Engineer e Línguista. CEO e criador da WBR (Web Brazilian Resource)</p>
             <ul className={styles.list}>
                 <li>
                     <FaGithub />
