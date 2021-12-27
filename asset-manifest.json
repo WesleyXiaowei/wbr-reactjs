@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/wbr-reactjs/static/css/main.14f5d8c1.css",
-    "main.js": "/wbr-reactjs/static/js/main.f106a91c.js",
+    "main.css": "/wbr-reactjs/static/css/main.0838e703.css",
+    "main.js": "/wbr-reactjs/static/js/main.4f30c8dd.js",
     "static/media/wbr-hero3.jpg": "/wbr-reactjs/static/media/wbr-hero3.16629880ae64b07a494e.jpg",
+    "static/media/chinese-baby.jpg": "/wbr-reactjs/static/media/chinese-baby.1111b0c8e4503208e6c1.jpg",
     "static/media/wesley-img.jpg": "/wbr-reactjs/static/media/wesley-img.65bc5a75cfd76b02bfdb.jpg",
     "static/media/wbr-logo.jpg": "/wbr-reactjs/static/media/wbr-logo.0ad0db352045cc6f482a.jpg",
     "index.html": "/wbr-reactjs/index.html",
-    "main.14f5d8c1.css.map": "/wbr-reactjs/static/css/main.14f5d8c1.css.map",
-    "main.f106a91c.js.map": "/wbr-reactjs/static/js/main.f106a91c.js.map"
+    "main.0838e703.css.map": "/wbr-reactjs/static/css/main.0838e703.css.map",
+    "main.4f30c8dd.js.map": "/wbr-reactjs/static/js/main.4f30c8dd.js.map"
   },
   "entrypoints": [
-    "static/css/main.14f5d8c1.css",
-    "static/js/main.f106a91c.js"
+    "static/css/main.0838e703.css",
+    "static/js/main.4f30c8dd.js"
   ]
 }
